@@ -44,6 +44,7 @@ INSERT INTO `apps_countries` VALUES (null, 'BF', 'Burkina Faso');
 INSERT INTO `apps_countries` VALUES (null, 'BI', 'Burundi');
 INSERT INTO `apps_countries` VALUES (null, 'KH', 'Cambodia');
 INSERT INTO `apps_countries` VALUES (null, 'CM', 'Cameroon');
+INSERT INTO `apps_countries` VALUES (null, 'CO', 'Colombia');
 INSERT INTO `apps_countries` VALUES (null, 'CA', 'Canada');
 INSERT INTO `apps_countries` VALUES (null, 'CV', 'Cape Verde');
 INSERT INTO `apps_countries` VALUES (null, 'KY', 'Cayman Islands');
